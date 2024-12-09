@@ -11,3 +11,5 @@ First Feature added
 
 
 Booking Module Added
+
+Release Branch created for v1.0.0
